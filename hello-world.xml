@@ -1,0 +1,6 @@
+<?xml version = "1.0"?>
+<project name = "Hello World Project" default = "task1" basedir=".">
+   <target name = "task1">
+      <echo>Hello World !</echo>
+   </target>
+</project>
